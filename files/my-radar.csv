@@ -1,0 +1,5 @@
+name,ring,quadrant,isNew,description
+React,adopt,languages & frameworks,FALSE,"Popular frontend library"
+Docker,trial,platforms,TRUE,"Container platform we're evaluating"
+GraphQL,assess,techniques,FALSE,"API query language to assess"
+jQuery,hold,languages & frameworks,FALSE,"Legacy library to phase out"
