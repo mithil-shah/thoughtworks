@@ -2,4 +2,4 @@ name,ring,quadrant,isNew,description
 React,adopt,languages & frameworks,FALSE,"Popular frontend library"
 Docker,trial,platforms,TRUE,"Container platform we're evaluating"
 AWS Amplify,assess,tools,FALSE,"Simple website hosting"
-jQuery,hold,languages & frameworks,FALSE,"Legacy library to phase out"
+GraphQL,assess,techniques,FALSE,"API query language to assess"
