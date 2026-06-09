@@ -1,0 +1,30 @@
+[
+  {
+    "name": "React",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Popular frontend library"
+  },
+  {
+    "name": "Docker",
+    "ring": "trial",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Container platform we're evaluating"
+  },
+  {
+    "name": "AWS Amplify",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "Simple website hosting"
+  },
+  {
+    "name": "GraphQL",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "API query language to assess"
+  }
+]
